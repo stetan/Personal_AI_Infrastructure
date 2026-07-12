@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="art/release-art.png" alt="LifeOS 5.0.0 — your DA at the center of your universe" width="820">
+
 # PAI v5.0.0 — Life Operating System
 
 **The biggest release in PAI history.** PAI is no longer "AI scaffolding" — it is a **Life Operating System** with a unified daemon, a Life Dashboard, a personalized Digital Assistant, and a fully-articulated execution algorithm.

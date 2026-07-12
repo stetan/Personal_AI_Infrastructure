@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/danielmiessler/LifeOS/main/images/lifeos-logo.png" alt="LifeOS" width="200">
+<img src="art/release-art.png" alt="LifeOS 6.0.0 — one self-contained skill" width="820">
 
 # LifeOS 6.0.0
 
